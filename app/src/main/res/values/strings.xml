@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TiendaApp</string>
+    <string name="ayuda_codigo">Codigo usuario</string>
+    <string name="boton_ingresar">Ingresar</string>
+    <string name="ver_carrito">Ver carrito</string>
+    <string name="agregar_carrito">Agregar al carrito</string>
+    <string name="boton_buscar">Buscar producto</string>
+</resources>
